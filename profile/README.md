@@ -23,4 +23,4 @@ We are currently working on recreating the Minecraft: Earth server infrastructur
 
 ## Links
 - [GitHub](https://github.com/MCEarth-Reforged)
-- [Website](https://mcearthreforged.github.io/)
+- [Website](https://reforged.voltaccept.com/)
