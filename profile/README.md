@@ -3,10 +3,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/MCEarth-Reforged?style=for-the-badge)
-<br/>
+<br/>b m 
 
 
-![logo](https://avatars.githubusercontent.com/u/265659900)
+![banner](../banner.png)
 
 We're a community dedicated to recreating the Minecraft: Earth server infrastructure so that the community can continue to play even after the shutdown.
 
